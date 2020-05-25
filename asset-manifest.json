@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Prachka/static/css/main.981f7211.chunk.css",
+    "main.js": "/Prachka/static/js/main.b7f637aa.chunk.js",
+    "main.js.map": "/Prachka/static/js/main.b7f637aa.chunk.js.map",
+    "runtime-main.js": "/Prachka/static/js/runtime-main.e871c6ac.js",
+    "runtime-main.js.map": "/Prachka/static/js/runtime-main.e871c6ac.js.map",
+    "static/css/2.86df01db.chunk.css": "/Prachka/static/css/2.86df01db.chunk.css",
+    "static/js/2.a933ee25.chunk.js": "/Prachka/static/js/2.a933ee25.chunk.js",
+    "static/js/2.a933ee25.chunk.js.map": "/Prachka/static/js/2.a933ee25.chunk.js.map",
+    "index.html": "/Prachka/index.html",
+    "precache-manifest.7ff26ddbc6cb555cd90bb7276d9b0673.js": "/Prachka/precache-manifest.7ff26ddbc6cb555cd90bb7276d9b0673.js",
+    "service-worker.js": "/Prachka/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/Prachka/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/Prachka/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.a933ee25.chunk.js.LICENSE.txt": "/Prachka/static/js/2.a933ee25.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/Prachka/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e871c6ac.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.a933ee25.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.b7f637aa.chunk.js"
+  ]
+}
