@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Prachka/static/css/main.c8630f54.chunk.css",
-    "main.js": "/Prachka/static/js/main.962fd58b.chunk.js",
-    "main.js.map": "/Prachka/static/js/main.962fd58b.chunk.js.map",
+    "main.css": "/Prachka/static/css/main.c21600aa.chunk.css",
+    "main.js": "/Prachka/static/js/main.7df58384.chunk.js",
+    "main.js.map": "/Prachka/static/js/main.7df58384.chunk.js.map",
     "runtime-main.js": "/Prachka/static/js/runtime-main.e871c6ac.js",
     "runtime-main.js.map": "/Prachka/static/js/runtime-main.e871c6ac.js.map",
     "static/css/2.86df01db.chunk.css": "/Prachka/static/css/2.86df01db.chunk.css",
-    "static/js/2.d828d101.chunk.js": "/Prachka/static/js/2.d828d101.chunk.js",
-    "static/js/2.d828d101.chunk.js.map": "/Prachka/static/js/2.d828d101.chunk.js.map",
+    "static/js/2.412d885f.chunk.js": "/Prachka/static/js/2.412d885f.chunk.js",
+    "static/js/2.412d885f.chunk.js.map": "/Prachka/static/js/2.412d885f.chunk.js.map",
     "index.html": "/Prachka/index.html",
-    "precache-manifest.e163401b8f9ea4856821e3ddf328dce7.js": "/Prachka/precache-manifest.e163401b8f9ea4856821e3ddf328dce7.js",
+    "precache-manifest.19a89c35f0ad04a592519a2092b9b5b2.js": "/Prachka/precache-manifest.19a89c35f0ad04a592519a2092b9b5b2.js",
     "service-worker.js": "/Prachka/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/Prachka/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.c8630f54.chunk.css.map": "/Prachka/static/css/main.c8630f54.chunk.css.map",
-    "static/js/2.d828d101.chunk.js.LICENSE.txt": "/Prachka/static/js/2.d828d101.chunk.js.LICENSE.txt",
+    "static/css/main.c21600aa.chunk.css.map": "/Prachka/static/css/main.c21600aa.chunk.css.map",
+    "static/js/2.412d885f.chunk.js.LICENSE.txt": "/Prachka/static/js/2.412d885f.chunk.js.LICENSE.txt",
     "static/media/CodeView.png": "/Prachka/static/media/CodeView.0750e10d.png",
     "static/media/Coderegistration.png": "/Prachka/static/media/Coderegistration.ffbb4159.png",
     "static/media/Dasha.png": "/Prachka/static/media/Dasha.04f376a1.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.e871c6ac.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.d828d101.chunk.js",
-    "static/css/main.c8630f54.chunk.css",
-    "static/js/main.962fd58b.chunk.js"
+    "static/js/2.412d885f.chunk.js",
+    "static/css/main.c21600aa.chunk.css",
+    "static/js/main.7df58384.chunk.js"
   ]
 }
