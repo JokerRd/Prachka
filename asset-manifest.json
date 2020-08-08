@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Prachka/static/css/main.b23829a1.chunk.css",
+    "main.css": "/Prachka/static/css/main.9049118e.chunk.css",
     "main.js": "/Prachka/static/js/main.d58c42b9.chunk.js",
     "main.js.map": "/Prachka/static/js/main.d58c42b9.chunk.js.map",
     "runtime-main.js": "/Prachka/static/js/runtime-main.e871c6ac.js",
@@ -9,10 +9,10 @@
     "static/js/2.0eb00f48.chunk.js": "/Prachka/static/js/2.0eb00f48.chunk.js",
     "static/js/2.0eb00f48.chunk.js.map": "/Prachka/static/js/2.0eb00f48.chunk.js.map",
     "index.html": "/Prachka/index.html",
-    "precache-manifest.bc8f154c7415719bf33865bc43cd8f95.js": "/Prachka/precache-manifest.bc8f154c7415719bf33865bc43cd8f95.js",
+    "precache-manifest.37e9b1db8eabe9d9ac487dd7e9902ec7.js": "/Prachka/precache-manifest.37e9b1db8eabe9d9ac487dd7e9902ec7.js",
     "service-worker.js": "/Prachka/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/Prachka/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.b23829a1.chunk.css.map": "/Prachka/static/css/main.b23829a1.chunk.css.map",
+    "static/css/main.9049118e.chunk.css.map": "/Prachka/static/css/main.9049118e.chunk.css.map",
     "static/js/2.0eb00f48.chunk.js.LICENSE.txt": "/Prachka/static/js/2.0eb00f48.chunk.js.LICENSE.txt",
     "static/media/CodeView.png": "/Prachka/static/media/CodeView.0750e10d.png",
     "static/media/Coderegistration.png": "/Prachka/static/media/Coderegistration.ffbb4159.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.e871c6ac.js",
     "static/css/2.86df01db.chunk.css",
     "static/js/2.0eb00f48.chunk.js",
-    "static/css/main.b23829a1.chunk.css",
+    "static/css/main.9049118e.chunk.css",
     "static/js/main.d58c42b9.chunk.js"
   ]
 }
